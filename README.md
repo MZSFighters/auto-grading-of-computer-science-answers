@@ -1,5 +1,10 @@
 # Semi-Automated Grading of Free-Text Computer Science Answers
 
+Please find the research paper below:
+[Semi-Automated Grading System - paper](https://github.com/MZSFighters/auto-grading-of-computer-science-answers/raw/main/2433079.pdf)
+
+**Very Important Note:** The hyperparameter tuning graphs, which were omitted from the paper's Appendix due to LaTeX image file limitations, are available in this repository. You can find them in the Results/Sampling folder. There exists multiple folders for different parameters that were fine-tuned.
+
 The code and results for each component of the semi-automated pipeline are organised into their respective folders:
 - Fine-tuning (Embeddings)
 - Clustering
