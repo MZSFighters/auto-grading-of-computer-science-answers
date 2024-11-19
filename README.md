@@ -1,12 +1,12 @@
 # Semi-Automated Grading of Free-Text Computer Science Answers
 
-The code and results for each piece of the semi-automated pipeline are available:
--> Fine-tuning (Embeddings)
--> Clustering
--> Sampling
+The code and results for each component of the semi-automated pipeline are organised into their respective folders:
+- Fine-tuning (Embeddings)
+- Clustering
+- Sampling
 
-![alt text](https://github.com/MZSFighters/auto-grading-of-computer-science-answers/main/Results/System%20Diagrams/overall_system.pdf?raw=true)
+![Semi-automated Grading System Pipeline](https://github.com/MZSFighters/auto-grading-of-computer-science-answers/raw/main/system_pipeline.png)
 
-The code for most of them can be run using the Python files as long as the path to other files remains the same
+Most of the code can be executed using the provided Python files, as long as the file paths are correctly maintained within the existing folder structure.
 
-Note: Some code cannot be run as the bert_epoch_48 and gpt2_epoch_50 are not available on this repo.
+**Note:** Some parts of the code cannot be run because the bert_epoch_48 and gpt2_epoch_50 models are not included in this repository. This is due to GitHub's file size limitations, as the model tensors are too large to store here.
