@@ -1,9 +1,9 @@
 # Semi-Automated Grading of Free-Text Computer Science Answers
 
 The code and results for each component of the semi-automated pipeline are organised into their respective folders:
--> Fine-tuning (Embeddings)
--> Clustering
--> Sampling
+- Fine-tuning (Embeddings)
+- Clustering
+- Sampling
 
 ![Semi-automated Grading System Pipeline](https://github.com/MZSFighters/auto-grading-of-computer-science-answers/raw/main/system_pipeline.png)
 
