@@ -5,7 +5,7 @@ The code and results for each piece of the semi-automated pipeline are available
 -> Clustering
 -> Sampling
 
-![alt text](https://github.com/MZSFighters/auto-grading-of-computer-science-answers/main/system_pipeline.png?raw=true)
+![alt text](https://github.com/MZSFighters/auto-grading-of-computer-science-answers/raw/main/system_pipeline.png)
 
 The code for most of them can be run using the Python files as long as the path to other files remains the same
 
